@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Space Cleaner",
+    "description": "Incarner une éboueur de l’espace, acceptez des missions et empoignez votre matériel pour grimper dans votre vaisseau et vous rendre sur les lieux de nettoyage.",
+    "image": "/projects/SpaceCleaner/SC.webp",
+    "techs": ["UE5", "C++", "Blueprint"],
+    "link": "https://gydhia.itch.io/space-cleaner",
+    "category": "Unreal"
+  },
+  {
+    "title": "Save The Pyramide",
+    "description": "Libérez la pyramide des créatures qui l’ont envahie. Traversez les ruines environnantes, affrontez des ennemis et purgez le mal qui la dévore de l'intérieur.",
+    "image": "/projects/SaveThePyramide/STP.webp",
+    "techs": ["UE5", "Blueprint"],
+    "link": "#",
+    "category": "Unreal"
+  },
+  {
+    "title": "Yokaï No Mori - AI",
+    "description": "Serez-vous capable de vaincre notre IA ? Ou alors jouez simplement entre amis",
+    "image": "/projects/YokaiNoMori/YNM.webp",
+    "techs": ["Unity", "C#"],
+    "link": "https://tojikimado.itch.io/yokai-no-mori",
+    "category": "Unity"
+  },
+  {
+    "title": "Space Shooton - Plasma Edition",
+    "description": "Plongez dans un shooter spatial nerveux où réflexes et précision sont vos meilleures armes. Affrontez des vagues d’ennemis, esquivez les projectiles et améliorez votre vaisseau grâce à des bonus de plasma dévastateurs.",
+    "image": "/projects/SpaceShooton/SSPM.webp",
+    "techs": ["Unity", "C#"],
+    "link": "https://tsukishinen.itch.io/spaceshooton-plasmaedition",
+    "category": "Unity"
+  },
+  {
+    "title": "A journey to Vepiter",
+    "description": "Bienvenue sur Vepiter, une planète déserte en apparence, mais qui recele de bien des secrets. Parvenez a bout des créatures mysterieuses et ninja assoifés de sang que vous trouverez sur votre chemin et découvrez ce qui se cache dans ses profondeurs !",
+    "image": "/projects/Vepiter/AJTV.webp",
+    "techs": ["Unity", "C#"],
+    "link": "https://tsukishinen.itch.io/a-journey-to-vepiter",
+    "category": "Unity"
+  }
+]
